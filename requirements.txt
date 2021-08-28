@@ -1,0 +1,7 @@
+#  pip install -r requirements.txt
+torch==1.8.1
+transformers==4.4.2
+numpy==1.20.2
+flask==1.1.2
+flask_wtf==0.14.3
+wtforms==2.2.1
